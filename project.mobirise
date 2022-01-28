@@ -45,7 +45,7 @@
     "imageResize": true,
     "screenshot": "screenshot.png",
     "favicon": "@PROJECT_PATH@/assets/images/logo-128x128.png",
-    "mbrsiteDomain": "zx0vmnxzbd",
+    "mbrsiteDomain": "m8ti0zwlgy",
     "robotsSwitcher": true,
     "sitemapSwitcher": true,
     "sitemapSwitcherAuto": "on",
@@ -71,8 +71,8 @@
     "index.html": {
       "settings": {
         "main": true,
-        "title": "Home",
-        "meta_descr": "",
+        "title": "Sérgio@Work",
+        "meta_descr": "As Melhores soluções para EVENTOS,PUBLICIDADE e HOTELARIA.\nTendas - Insufláveis - Suportes Publicitários - Produtos em Cartão ",
         "header_custom": "",
         "footer_custom": "",
         "html_before": ""
