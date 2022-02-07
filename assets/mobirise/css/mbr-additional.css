@@ -3769,6 +3769,27 @@ a {
 .cid-sVrwDefGZ3 H6 {
   text-align: center;
 }
+.cid-sWKL3wsPjB {
+  padding-top: 0rem;
+  padding-bottom: 0rem;
+  background-color: #ffffff;
+}
+.cid-sWKL3wsPjB img {
+  width: 120px;
+  margin: auto;
+}
+.cid-sWKL3wsPjB .card {
+  transition: all 0.3s;
+  height: fit-content;
+  padding: 1rem 0;
+  opacity: 0.7;
+  margin-bottom: 1rem;
+}
+@media (min-width: 992px) {
+  .cid-sWKL3wsPjB .card {
+    max-width: 12.5%;
+  }
+}
 .cid-sVaYredmRy {
   padding-top: 5rem;
   padding-bottom: 5rem;
