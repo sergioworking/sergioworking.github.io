@@ -4383,7 +4383,7 @@ a {
 }
 .cid-sVaZv1hI9K {
   padding-top: 5rem;
-  padding-bottom: 0rem;
+  padding-bottom: 6rem;
   background-color: #ffffff;
 }
 .cid-sVaZv1hI9K .image-wrapper {
@@ -4413,27 +4413,6 @@ a {
 }
 .cid-sVaZv1hI9K P {
   color: #000000;
-}
-.cid-sWLIyVbGZO {
-  padding-top: 0rem;
-  padding-bottom: 5rem;
-  background-color: #ffffff;
-}
-.cid-sWLIyVbGZO img {
-  width: 120px;
-  margin: auto;
-}
-.cid-sWLIyVbGZO .card {
-  transition: all 0.3s;
-  height: fit-content;
-  padding: 1rem 0;
-  opacity: 0.7;
-  margin-bottom: 1rem;
-}
-@media (min-width: 992px) {
-  .cid-sWLIyVbGZO .card {
-    max-width: 12.5%;
-  }
 }
 .cid-sVb4ME3LuK {
   padding-top: 2rem;
