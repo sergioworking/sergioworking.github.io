@@ -4430,6 +4430,27 @@ a {
 .cid-sWQOcYomET .link {
   color: #ffe161;
 }
+.cid-sWWDAJ7GgC {
+  padding-top: 1rem;
+  padding-bottom: 0rem;
+  background-color: #fafafa;
+}
+.cid-sWWDAJ7GgC img {
+  width: 120px;
+  margin: auto;
+}
+.cid-sWWDAJ7GgC .card {
+  transition: all 0.3s;
+  height: fit-content;
+  padding: 1rem 0;
+  opacity: 0.7;
+  margin-bottom: 1rem;
+}
+@media (min-width: 992px) {
+  .cid-sWWDAJ7GgC .card {
+    max-width: 12.5%;
+  }
+}
 .cid-sVb4ME3LuK {
   padding-top: 6rem;
   padding-bottom: 0rem;
