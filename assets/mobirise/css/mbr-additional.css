@@ -4430,16 +4430,16 @@ a {
 .cid-sWQOcYomET .link {
   color: #ffe161;
 }
-.cid-sWWDAJ7GgC {
-  padding-top: 1rem;
+.cid-sWXilKNFrN {
+  padding-top: 2rem;
   padding-bottom: 0rem;
-  background-color: #fafafa;
+  background-color: #ffffff;
 }
-.cid-sWWDAJ7GgC img {
+.cid-sWXilKNFrN img {
   width: 120px;
   margin: auto;
 }
-.cid-sWWDAJ7GgC .card {
+.cid-sWXilKNFrN .card {
   transition: all 0.3s;
   height: fit-content;
   padding: 1rem 0;
@@ -4447,7 +4447,7 @@ a {
   margin-bottom: 1rem;
 }
 @media (min-width: 992px) {
-  .cid-sWWDAJ7GgC .card {
+  .cid-sWXilKNFrN .card {
     max-width: 12.5%;
   }
 }
