@@ -1779,101 +1779,6 @@ a {
   text-align: left;
   color: #232323;
 }
-.cid-sVb1Nai3FP {
-  padding-top: 6rem;
-  padding-bottom: 6rem;
-  background-color: #ffffff;
-}
-.cid-sVb1Nai3FP .top-line {
-  display: flex;
-  justify-content: space-between;
-}
-.cid-sVb1Nai3FP .mbr-section-title,
-.cid-sVb1Nai3FP .mbr-section-subtitle {
-  text-align: center;
-}
-.cid-sVb1Nai3FP .card:not(:nth-last-child(1)) {
-  margin-bottom: 2rem;
-}
-.cid-sVb1Nai3FP .card-wrapper {
-  border-radius: 4px;
-  background-color: #fafafa;
-}
-.cid-sVb1Nai3FP .image-wrapper img {
-  width: 100%;
-  object-fit: cover;
-}
-@media (max-width: 767px) {
-  .cid-sVb1Nai3FP .card-box {
-    padding: 1rem;
-  }
-}
-@media (min-width: 768px) {
-  .cid-sVb1Nai3FP .card-box {
-    padding-right: 2rem;
-  }
-}
-@media (min-width: 992px) {
-  .cid-sVb1Nai3FP .card-box {
-    padding-left: 2rem;
-    padding-right: 4rem;
-  }
-}
-.cid-sVaYRNJLPz {
-  padding-top: 5rem;
-  padding-bottom: 5rem;
-  background-image: url("../../../assets/images/jose-martin-ramirez-c-651-unsplash-2000x1333.jpg");
-}
-.cid-sVaYRNJLPz .bg-facebook {
-  background: #1778f2;
-  color: #ffffff;
-}
-.cid-sVaYRNJLPz .bg-facebook:hover {
-  background: #0b60cb;
-}
-.cid-sVaYRNJLPz .bg-twitter {
-  background: #1da1f2;
-  color: #ffffff;
-}
-.cid-sVaYRNJLPz .bg-twitter:hover {
-  background: #0c85d0;
-}
-.cid-sVaYRNJLPz .bg-instagram {
-  background: #f00075;
-  color: #ffffff;
-}
-.cid-sVaYRNJLPz .bg-instagram:hover {
-  background: #bd005c;
-}
-.cid-sVaYRNJLPz .bg-linkedin {
-  background: #0077b5;
-  color: #ffffff;
-}
-.cid-sVaYRNJLPz .bg-linkedin:hover {
-  background: #005582;
-}
-.cid-sVaYRNJLPz .bg-youtube {
-  background: #ff0000;
-  color: #ffffff;
-}
-.cid-sVaYRNJLPz .bg-youtube:hover {
-  background: #cc0000;
-}
-.cid-sVaYRNJLPz .iconfont-wrapper {
-  display: inline-block;
-  font-size: 32px;
-  border-radius: 50%;
-  width: 55px;
-  height: 55px;
-  line-height: 55px;
-  text-align: center;
-  transition: all 0.3s ease-in-out;
-}
-.cid-sVaYRNJLPz [class^="socicon-"]:before,
-.cid-sVaYRNJLPz [class*=" socicon-"]:before {
-  line-height: 55px;
-  padding: .6rem;
-}
 .cid-sVrB2BrOQm {
   padding-top: 6rem;
   padding-bottom: 0rem;
@@ -2130,53 +2035,6 @@ a {
 .cid-sVrB2BrOQm H6 {
   text-align: center;
 }
-.cid-sVrtI6C8wY {
-  padding-top: 0rem;
-  padding-bottom: 5rem;
-  background-color: #ffffff;
-}
-.cid-sVrtI6C8wY .row {
-  flex-direction: row-reverse;
-}
-.cid-sVrtI6C8wY .video-wrapper iframe {
-  width: 100%;
-}
-.cid-sVrtI6C8wY .mbr-section-title,
-.cid-sVrtI6C8wY .mbr-description {
-  text-align: center;
-}
-@media (min-width: 992px) {
-  .cid-sVrtI6C8wY .text-wrapper {
-    padding: 2rem;
-  }
-}
-.cid-sVaYArrUFw {
-  padding-top: 6rem;
-  padding-bottom: 6rem;
-  background-color: #ffffff;
-}
-.cid-sVaYArrUFw .card .card-header {
-  background-color: transparent;
-  margin-bottom: 0;
-}
-.cid-sVaYArrUFw .panel-title {
-  display: flex;
-  align-items: center;
-  justify-content: space-between;
-}
-.cid-sVaYArrUFw .mbr-iconfont {
-  padding-left: 1rem;
-  font-family: 'Moririse2' !important;
-  font-size: 1.4rem !important;
-  color: #6592e6;
-}
-.cid-sVaYArrUFw .panel-body,
-.cid-sVaYArrUFw .card-header {
-  padding: 1rem 0;
-}
-.cid-sVaYArrUFw .panel-title-edit {
-  color: #000000;
-}
 .cid-sVaZv1hI9K {
   padding-top: 5rem;
   padding-bottom: 0rem;
@@ -2209,6 +2067,61 @@ a {
 }
 .cid-sVaZv1hI9K P {
   color: #000000;
+}
+.cid-sVaYRNJLPz {
+  padding-top: 5rem;
+  padding-bottom: 5rem;
+  background-image: url("../../../assets/images/jose-martin-ramirez-c-651-unsplash-2000x1333.jpg");
+}
+.cid-sVaYRNJLPz .bg-facebook {
+  background: #1778f2;
+  color: #ffffff;
+}
+.cid-sVaYRNJLPz .bg-facebook:hover {
+  background: #0b60cb;
+}
+.cid-sVaYRNJLPz .bg-twitter {
+  background: #1da1f2;
+  color: #ffffff;
+}
+.cid-sVaYRNJLPz .bg-twitter:hover {
+  background: #0c85d0;
+}
+.cid-sVaYRNJLPz .bg-instagram {
+  background: #f00075;
+  color: #ffffff;
+}
+.cid-sVaYRNJLPz .bg-instagram:hover {
+  background: #bd005c;
+}
+.cid-sVaYRNJLPz .bg-linkedin {
+  background: #0077b5;
+  color: #ffffff;
+}
+.cid-sVaYRNJLPz .bg-linkedin:hover {
+  background: #005582;
+}
+.cid-sVaYRNJLPz .bg-youtube {
+  background: #ff0000;
+  color: #ffffff;
+}
+.cid-sVaYRNJLPz .bg-youtube:hover {
+  background: #cc0000;
+}
+.cid-sVaYRNJLPz .iconfont-wrapper {
+  display: inline-block;
+  font-size: 32px;
+  border-radius: 50%;
+  width: 55px;
+  height: 55px;
+  line-height: 55px;
+  text-align: center;
+  transition: all 0.3s ease-in-out;
+}
+.cid-sVaYRNJLPz [class^="socicon-"]:before,
+.cid-sVaYRNJLPz [class*=" socicon-"]:before {
+  line-height: 55px;
+  padding: .6rem;
 }
 .cid-sVb4ME3LuK {
   padding-top: 4rem;
